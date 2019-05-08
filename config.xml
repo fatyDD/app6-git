@@ -31,9 +31,9 @@ Aplicacion para realizar swipe o deslizamiento en el dispositivo
  
  <!-- <plugin name="cordova-plugin-geolocation" source="npm"/> -->
  <allow-intent href="http://*/*"/>
-  <acces origin href="http://*/*"/>
+  <acces origin="http://*/*"/>
   <allow-intent href="http://*/*"/>
-  <acces origin href="http://*/*"/>
+  <acces origin="http://*/*"/>
   <plugin name="cordova-plugin-whitelist" source="npm"/>
  
  
